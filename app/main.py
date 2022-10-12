@@ -1,5 +1,7 @@
 from fastapi import FastAPI , Depends , HTTPException
 from fastapi.security import OAuth2PasswordBearer
+
+from app.helper import read_json, read_json_id
 from .auth import AuthHandler
 from .schemas import User
 
@@ -13,6 +15,14 @@ users = []
 @app.get('/')
 def welcome():
     return  "Welcome to Pragati"
+
+@app.get('/college')
+def college_data():
+    return read_json()
+
+@app.get('/college/{id}')
+def college_data_id(id:int):
+    return read_json_id(id)
 
 @app.post('/register',status_code=201,tags=["Authentication"])
 def register(user_details: User):

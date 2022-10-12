@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "logo": "https://static.zollege.in/public/college_data/images/logos/1434977143jpjpjpjpj.jpg?tr=h-60,w-60,c-force",
+        "name": "Indian Institute of Technology, Madras",
+        "location": "Chennai, Tamil Nadu",
+        "information": "IIT Delhi was established in 1961. First, it was established as the College of Engineering, and later on, it was declared as an Institute of National Importance under the ‘Institute of Technology Act,1963’. The Government of India has given the status of Deemed University, the college is autonomous and can take its own decisions about the academic policy, examinations and degrees.",
+        "ranking":"# 2 NIRF",
+        "fee":"Rs 2,20,00/-.",
+        "duration":"4 Years.",
+        "exam_accepted":" JEE Advanced",
+        "eligibility":"10+2 with 75% + JEE Advanced"
+    },
+    {
+        "id": 2,
+        "logo": "https://static.zollege.in/public/college_data/images/logos/col27802.gif?tr=h-60,w-60,c-force",
+        "name": "Indian Institute of Technology, Delhi",
+        "location": "New Delhi, India",
+        "information": "IIT Delhi was established in 1961. First, it was established as the College of Engineering, and later on, it was declared as an Institute of National Importance under the ‘Institute of Technology Act,1963’. The Government of India has given the status of Deemed University, the college is autonomous and can take its own decisions about the academic policy, examinations and degrees.",
+        "ranking":"# 2 NIRF",
+        "fee":"Rs 2,20,00/-.",
+        "duration":"4 Years.",
+        "exam_accepted":" JEE Advanced",
+        "eligibility":"10+2 with 75% + JEE Advanced"
+    },
+    {
+        "id": 3,
+        "logo": "https://static.zollege.in/public/college_data/images/logos/1431953162ccgsygdygw.jpg?tr=h-60,w-60,c-force",
+        "name": "Indian Institute of Technology, Bombay",
+        "location": "Mumbai, Maharashtra",
+        "information": "IIT Delhi was established in 1961. First, it was established as the College of Engineering, and later on, it was declared as an Institute of National Importance under the ‘Institute of Technology Act,1963’. The Government of India has given the status of Deemed University, the college is autonomous and can take its own decisions about the academic policy, examinations and degrees.",
+        "ranking":"# 2 NIRF",
+        "fee":"Rs 2,20,00/-.",
+        "duration":"4 Years.",
+        "exam_accepted":" JEE Advanced",
+        "eligibility":"10+2 with 75% + JEE Advanced"
+    },
+    {
+        "id": 4,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/IIT_Kanpur_Logo.svg/1200px-IIT_Kanpur_Logo.svg.png",
+        "name": "Indian Institute of Technology, Kanpur",
+        "location": "Kanpur, Uttar Pradesh",
+        "information": "IIT Delhi was established in 1961. First, it was established as the College of Engineering, and later on, it was declared as an Institute of National Importance under the ‘Institute of Technology Act,1963’. The Government of India has given the status of Deemed University, the college is autonomous and can take its own decisions about the academic policy, examinations and degrees.",
+        "ranking":"# 2 NIRF",
+        "fee":"Rs 2,20,00/-.",
+        "duration":"4 Years.",
+        "exam_accepted":" JEE Advanced",
+        "eligibility":"10+2 with 75% + JEE Advanced"
+    }
+]
